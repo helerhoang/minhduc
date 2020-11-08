@@ -41,8 +41,8 @@
     <div class="hero-container">
      <img src="assets/img/logomd.png" alt="">
       <h1 data-aos="zoom-in">WELCOME TO US</h1>
-      <h2 data-aos="fade-up">CHÚNG TÔI LÀ CHUYÊN TƯ VẤN, SỬA CHỮA, THIẾT KẾ, CÁC VẤN ĐỀ LIÊN QUAN ĐẾN ĐIỆN CÔNG NGHIỆP VÀ TỰ ĐỘNG HÓA</h2>
-      <a data-aos="fade-up" href="#about" class="btn-get-started scrollto">Về Chúng Tôi</a>
+      <h2 data-aos="fade-up">CHÚNG TÔI LÀ CHUYÊN TƯ VẤN, SỬA CHỮA, THIẾT KẾ, CÁC VẤN ĐỀ LIÊN QUAN ĐẾN ĐIỆN CÔNG NGHIỆP VÀ TỰ ĐỘNG HÓA TẠI QUẢNG NAM</h2>
+      <a data-aos="fade-up" href="#about" class="btn-get-started scrollto">Giới Thiệu</a>
     </div>
   </section><!-- End Hero -->
 
@@ -57,8 +57,8 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul class="nav-inner">
-          <li class="active"><a href="index.html">Trang Chủ</a></li>
-          <li class="drop-down"><a href="">Về Chúng Tôi</a>
+          <li class="active"><a href="#">Trang Chủ</a></li>
+          <li class="drop-down"><a href="">Giới Thiệu</a>
             <ul>
               <li><a href="#about">Chúng Tôi</a></li>
               <li><a href="#team">Nhóm</a></li>
@@ -76,10 +76,10 @@
           </li>
           <li><a href="#services">Dịch Vụ</a></li>
 
-          <li class="nav-logo"><a href="index.html"><img src="assets/img/logomd.png" alt="" class="img-fluid"></a></li>
+          <li class="nav-logo"><a href=""><img src="assets/img/logomd.png" alt="" class="img-fluid"></a></li>
 
-          <li><a href="#portfolio">Nhà Đầu Tư</a></li>
-         <!--  <li><a href="#pricing">Pricing</a></li> -->
+          <li><a href="#portfolio">Sản Phẩm Thực Hiện </a></li>
+          <li><a href="#pricing">Báo Giá</a></li>
           <li><a href="#contact">Thông Tin Liên Hệ</a></li>
 
         </ul>

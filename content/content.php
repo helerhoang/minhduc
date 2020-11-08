@@ -6,8 +6,8 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur</p>
+          <h2>Giới Thiệu</h2>
+          <!-- <p></p> -->
         </div>
 
         <div class="row">
@@ -18,25 +18,32 @@
           </div>
           <div class="col-lg-6" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Voluptatem dignissimos provident quasi corporis</h3>
+              <h3>Chúng tôi là nhóm chuyên xử lý các vấn đề về Điện Công Nghiệp & Tự Động Hóa với những kỹ sư giỏi và có nhiều năm kinh nghiệm.</h3>
               <p class="font-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Một số sản phẩm và dịch vụ chúng tôi hiện đang cung cấp:
               </p>
               <ul>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bx bx-check-double"></i> Chuyên sửa chữa, khắc phục sự cố dây chuyền, thiết bị máy móc điện công nghiệp, điện tự động hoá.</li>
+                <li><i class="bx bx-check-double"></i> Tư vấn giải pháp, nâng cấp, cải tiến máy móc công nghiệp nâng cao năng suất sản phẩm.</li>
+                <li><i class="bx bx-check-double"></i> Thiết kế, lập trình hệ thống điện điều khiển, tủ điện điều khiển, hệ thống plc, scada.</li>
               </ul>
-              <p>
+               <p class="font-italic">
+                Cam kết của chúng tôi với quý khách hàng như sau:
+              </p>
+              <ul>
+                <li><i class="bx bx-check-double"></i> Giá cả hợp lý- giá cả phù hợp với tùy theo chi phí đầu tư của khách hàng từ giá thành bình dân đến cao cấp.</li>
+                <li><i class="bx bx-check-double"></i> Hỗ trợ tận tình- chúng tôi luôn đảm bảo tư vấn một cách trung thực và chính xác liên quan tới thông tin sản phẩm, kèm sự hỗ trợ trong việc sử dụng sản phẩm cho khách hàng.</li>
+                <li><i class="bx bx-check-double"></i> Giao hàng nhanh chóng- tối ưu thời gian giao hàng tùy theo từng loại sản phẩm khác nhau.</li>
+              </ul>
+             <!--  <p>
                 Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
                 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
                 culpa qui officia deserunt mollit anim id est laborum
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
-
+         <div style="text-align: center;"><span>Mọi chi tiết hỗ trợ và báo giá, xin vui lòng liên hệ: <B>SĐT:</B> 093.11.00.883(Minh Đức) hoặc qua <a href="https://www.facebook.com/profile.php?id=100055500616624"><B>Facebook:</B><img src="./assets/img/favicon.png"></a> </span></div>
       </div>
     </section><!-- End About Us Section -->
 
@@ -45,40 +52,40 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <h2>Dịch Vụ</h2>
+         <!--  <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p> -->
         </div>
 
         <div class="row">
           <div class="col-lg-6 order-2 order-lg-1">
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>Chuyên sửa chữa, khắc phục sự cố</h4>
+              <p>Chuyên sửa chữa, khắc phục sự cố dây chuyền, thiết bị máy móc điện công nghiệp, điện tự động hoá.</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+              <h4>Tư vấn giải pháp</h4>
+              <p>Tư vấn giải pháp, nâng cấp, cải tiến máy móc công nghiệp nâng cao năng suất sản phẩm.</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+              <h4>Thiết kế, lập trình</h4>
+              <p>Thiết kế, lập trình hệ thống điện điều khiển, tủ điện điều khiển, hệ thống plc, scada.</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
               <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+              <h4>Bảo Dưỡng Bảo Trì</h4>
+              <p>Bảo dưỡng, bảo hành sản phẩm khi đưa vào sử dụng có lỗi.</p>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/services.jpg");' data-aos="fade-left" data-aos-delay="100"></div>
+          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/sanpham.jpg");' data-aos="fade-left" data-aos-delay="100"></div>
         </div>
 
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Featured Section ======= -->
+    <!-- ======= Featured Section =======
     <section id="featured" class="featured">
       <div class="container">
 
@@ -138,9 +145,9 @@
         </div>
 
       </div>
-    </section><!-- End Featured Section -->
+    </section> End Featured Section -->
 
-    <!-- ======= Why Us Section ======= -->
+    <!-- ======= Why Us Section ======= 
     <section id="why-us" class="why-us">
       <div class="container-fluid">
 
@@ -196,24 +203,24 @@
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+    </section> End Why Us Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <h2>Sản Phẩm Đã Thực Hiện</h2>
+          <p>Những sản phẩm mà chúng tôi đã thực hiện</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Tất Cả</li>
+              <li data-filter=".filter-app">Sửa chữa, khắc phục sự cố</li>
+              <li data-filter=".filter-card">Tư vấn giải pháp</li>
+              <li data-filter=".filter-web">Thiết kế, lập trình</li>
             </ul>
           </div>
         </div>
@@ -222,13 +229,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/KPSC1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Sửa chữa, khắc phục sự cố 1</h4>
+                <p>Sửa chữa, khắc phục sự cố</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/KPSC1.jpg" data-gall="portfolioGallery" class="venobox" title="Sửa chữa, khắc phục sự cố 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -236,13 +243,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/thietke1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Thiết kế, lập trình 3</h4>
+                <p>Thiết kế, lập trình</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/thietke1.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                 <!--  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -250,13 +257,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kPSC4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Sửa chữa, khắc phục sự cố 2</h4>
+                <p>Sửa chữa, khắc phục sự cố</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/kPSC4.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -264,13 +271,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/tuvan2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Sửa chữa, khắc phục sự cố 2</h4>
+                <p>Sửa chữa, khắc phục sự cố</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/tuvan2.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <!--     <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -278,13 +285,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/thietke2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Thiết kế, lập trình 2</h4>
+                <p>Thiết kế, lập trình</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/thietke2.png" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -292,13 +299,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Kpsc3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Sửa chữa, khắc phục sự cố 3</h4>
+                <p>Sửa chữa, khắc phục sự cố</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/Kpsc3.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                <!--   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -306,13 +313,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/tuvan.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                <h4>Tư vấn giải pháp 1</h4>
+                <p>Tư vấn giải pháp</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/tuvan.jpg" data-gall="portfolioGallery" class="venobox" title="tuvan 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -320,13 +327,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/tuvan3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Tư vấn giải pháp 3</h4>
+                <p>Tư vấn giải pháp</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/tuvan3.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                 <!--  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -334,13 +341,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/thietke3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Thiết kế, lập trình 3</h4>
+                <p>Thiết kế, lập trình</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/thietke3.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -361,47 +368,47 @@
 
           <div class="testimonial-item">
             <p>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              Tay nghề cao, có kinh nghiệm, sữa chữa nhanh chóng chắc chắn sẽ hợp tác lâu dài với minh đức.
             </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
+            <img src="assets/img/testimonials/feedback1.jpg" class="testimonial-img" alt="">
+            <h3>Ngọc Hoàng</h3>
+            <h4>Kỹ Thuật &amp; VNPT</h4>
           </div>
 
           <div class="testimonial-item">
             <p>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              Mình dân nghề như một lần máy bị lỗi hiển thị lỗi alarm error servo mà sữa hòa không được. May mắn được một người bạn giới thiệu Minh đức, sau khi trao đổi và làm việc a ấy đã khác phục nhanh chóng. Không gì hơn cảm ơn Minh Đức và nơi đây là nơi các bạn có thể tin tưởng được, đúng là nơi uy tín- chất lượng - nhanh chóng.  
             </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
+            <img src="assets/img/testimonials/avatar.jpg" class="testimonial-img" alt="">
+            <h3>Trần quang khải</h3>
+            <!-- <h4></h4> -->
           </div>
 
           <div class="testimonial-item">
             <p>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              Nhiệt tình, uy tính, nhanh chóng, sẽ hợp tác lâu dài
             </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
+            <img src="assets/img/testimonials/avatar.jpg" class="testimonial-img" alt="">
+            <h3>Nguyên Thiên Bảo</h3>
+            <!-- <h4>Store Owner</h4> -->
           </div>
 
           <div class="testimonial-item">
             <p>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+             Làm việc nhanh chóng, có trách nhiệm bảo hành tốt đánh giá 5 *
             </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
+            <img src="assets/img/testimonials/avatar.jpg" class="testimonial-img" alt="">
+            <h3>Quốc Phúc</h3>
+            <!-- <h4>Freelancer</h4> -->
           </div>
 
           <div class="testimonial-item">
             <p>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              Tuyệt Vời!
             </p>
             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
+            <h3>Trần Quốc Dũng</h3>
+           <!--  <h4>Entrepreneur</h4> -->
           </div>
 
         </div>
@@ -409,7 +416,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Clients Section ======= -->
+    <!-- ======= Clients Section =======
     <section id="clients" class="clients">
       <div class="container">
 
@@ -442,15 +449,15 @@
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section> End Clients Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <h2>Đội Chúng Tôi</h2>
+          <!-- p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p> -->
         </div>
 
         <div class="row">
@@ -458,23 +465,24 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="zoom-in">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/duclay.png" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
+                 <!--  <a href=""><i class="icofont-twitter"></i></a> -->
+                  <a href="https://www.facebook.com/profile.php?id=100055500616624"><i class="icofont-facebook"></i></a>
+                 <!--  <a href=""><i class="icofont-instagram"></i></a> -->
+                  <!-- <a href=""><i class="icofont-linkedin"></i></a> -->
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Animi est delectus alias quam repellendus nihil nobis dolor. Est sapiente occaecati et dolore. Omnis aut ut nesciunt explicabo qui. Eius nam deleniti ut omnis</p>
+                <h4>Trần Minh Đức</h4>
+                <span>Kỷ Sư tự động hóa</span>
+                <p>Tôi là Minh Đức là một kỹ sư tự động hóa, có nhiều năm kinh nghiệm làm việc trong công ty lớn Truong Hai Auto hy vọng những kinh nghiệm đó có thể hợp tác với các bạn.</p><br>
+                <p><b>SĐT: 093.11.00.883</b></p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+         <!--  <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="zoom-in" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
@@ -510,7 +518,7 @@
                 <p>Ut enim possimus nihil cupiditate beatae. Veniam facere quae non qui necessitatibus rerum eos vero. Maxime sit sunt quo dolor autem est qui quaerat</p>
               </div>
             </div>
-          </div>
+          </div> -->
 
         </div>
 
@@ -522,11 +530,13 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <h2>Báo Giá</h2>
+          <h6>Các bạn muốn biết thêm chi tiết hoặc giá thì vui lòng liên hệ trực tiếp để được trao đổi trực tiếp:</h6>
+          <h5><B>SDT: 093.11.00.883</B></h5>
+          <h5><b>FaceBook: <a href="https://www.facebook.com/profile.php?id=100055500616624">Minh Đức</a></b></h5>
         </div>
 
-        <div class="row">
+        <!-- <div class="row">
 
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
@@ -580,12 +590,12 @@
             </div>
           </div>
 
-        </div>
+        </div> -->
 
       </div>
     </section><!-- End Pricing Section -->
 
-    <!-- ======= Frequently Asked Questions Section ======= -->
+    <!-- ======= Frequently Asked Questions Section =======
     <section id="faq" class="faq">
       <div class="container">
 
@@ -652,9 +662,9 @@
         </ul>
 
       </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section> End Frequently Asked Questions Section -->
 
-    <!-- ======= Contact Section ======= -->
+    <!-- ======= Contact Section ======= 
     <section id="contact" class="contact section-bg">
       <div class="container">
 
@@ -723,6 +733,6 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section> End Contact Section -->
 
   </main><!-- End #main -->
