@@ -13,37 +13,41 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <div class="image">
-              <img src="assets/img/about.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/KPSC1.jpg" class="img-fluid" alt="">
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Chúng tôi là nhóm chuyên xử lý các vấn đề về Điện Công Nghiệp & Tự Động Hóa với những kỹ sư giỏi và có nhiều năm kinh nghiệm.</h3>
-              <p class="font-italic">
-                Một số sản phẩm và dịch vụ chúng tôi hiện đang cung cấp:
+              <h3>Với đội ngũ Kỹ Thuật nhiều năm kinh nghiệm. Chúng tôi chuyên xử lý các vấn đề liên quan đến thiết bị điện công nghiệp, điện tự động hóa.</h3>
+              <p >
+                Các dịch vụ chúng tôi đang cung cấp:
               </p>
-              <ul>
-                <li><i class="bx bx-check-double"></i> Chuyên sửa chữa, khắc phục sự cố dây chuyền, thiết bị máy móc điện công nghiệp, điện tự động hoá.</li>
-                <li><i class="bx bx-check-double"></i> Tư vấn giải pháp, nâng cấp, cải tiến máy móc công nghiệp nâng cao năng suất sản phẩm.</li>
-                <li><i class="bx bx-check-double"></i> Thiết kế, lập trình hệ thống điện điều khiển, tủ điện điều khiển, hệ thống plc, scada.</li>
+              <ul style="padding-left: 3%;">
+                <li> - Cung cấp thiết bị điện chính hãng giá rẻ, lắp đặt tận nơi.</li>
+                <li> - Sửa chữa lỗi thiết bị liên quan đến PLC, Hmi, Driver, Servo, Biến tần, tủ điện.</li>
+                <li> - Thiết kế, lắp đặt tủ điện điều khiển giá rẻ.</li>
+                <li> - Lập trình PLC, Hmi, Scada.</li>
+                <li> - Khảo sát nâng cấp máy móc thiết bị hiện hữu.</li>
               </ul>
-               <p class="font-italic">
-                Cam kết của chúng tôi với quý khách hàng như sau:
+               <p>
+                Cam kết của chúng tôi đối với Quý khách hàng:
               </p>
-              <ul>
-                <li><i class="bx bx-check-double"></i> Giá cả hợp lý- giá cả phù hợp với tùy theo chi phí đầu tư của khách hàng từ giá thành bình dân đến cao cấp.</li>
-                <li><i class="bx bx-check-double"></i> Hỗ trợ tận tình- chúng tôi luôn đảm bảo tư vấn một cách trung thực và chính xác liên quan tới thông tin sản phẩm, kèm sự hỗ trợ trong việc sử dụng sản phẩm cho khách hàng.</li>
-                <li><i class="bx bx-check-double"></i> Giao hàng nhanh chóng- tối ưu thời gian giao hàng tùy theo từng loại sản phẩm khác nhau.</li>
+              <ul style="padding-left: 3%">
+                <li> - Hỗ trợ nhanh chóng, kịp thời 24/7.</li>
+                <li> - Giá cả cạnh tranh.</li>
+                <li> - Phục vụ tận tình, uy tín, chuyên nghiệp.</li>
               </ul>
+              <p> Mọi chi tiết xin vui lòng liên hệ: <b>0931100883</b>  </p>
              <!--  <p>
                 Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
                 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
                 culpa qui officia deserunt mollit anim id est laborum
               </p> -->
             </div>
+            
           </div>
         </div>
-         <div style="text-align: center;"><span>Mọi chi tiết hỗ trợ và báo giá, xin vui lòng liên hệ: <B>SĐT:</B> 093.11.00.883(Minh Đức) hoặc qua <a href="https://www.facebook.com/profile.php?id=100055500616624"><B>Facebook:</B><img src="./assets/img/favicon.png"></a> </span></div>
+         
       </div>
     </section><!-- End About Us Section -->
 
@@ -61,25 +65,29 @@
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
               <i class="bx bx-receipt"></i>
               <h4>Chuyên sửa chữa, khắc phục sự cố</h4>
-              <p>Chuyên sửa chữa, khắc phục sự cố dây chuyền, thiết bị máy móc điện công nghiệp, điện tự động hoá.</p>
+              <p>Sửa chữa lỗi thiết bị liên quan đến PLC, Hmi, Driver, Servo, Biến tần, tủ điện..</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-cube-alt"></i>
               <h4>Tư vấn giải pháp</h4>
+              <p>Cung cấp thiết bị điện chính hãng giá rẻ, lắp đặt tận nơi.</p>
               <p>Tư vấn giải pháp, nâng cấp, cải tiến máy móc công nghiệp nâng cao năng suất sản phẩm.</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-images"></i>
               <h4>Thiết kế, lập trình</h4>
-              <p>Thiết kế, lập trình hệ thống điện điều khiển, tủ điện điều khiển, hệ thống plc, scada.</p>
+             <p>Lập trình PLC, Hmi, Scada.</p>
+              <p> Thiết kế, lắp đặt tủ điện điều khiển giá rẻ.</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
               <i class="bx bx-shield"></i>
               <h4>Bảo Dưỡng Bảo Trì</h4>
+              <p>Hỗ trợ nhanh chóng, kịp thời 24/7.</p>
+               <p>Phục vụ tận tình, uy tín, chuyên nghiệp.</p>
               <p>Bảo dưỡng, bảo hành sản phẩm khi đưa vào sử dụng có lỗi.</p>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/sanpham.jpg");' data-aos="fade-left" data-aos-delay="100"></div>
+          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/dich-vu-.jpg");' data-aos="fade-left" data-aos-delay="100"></div>
         </div>
 
       </div>
@@ -211,7 +219,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Sản Phẩm Đã Thực Hiện</h2>
-          <p>Những sản phẩm mà chúng tôi đã thực hiện</p>
+          <!-- <p>Những sản phẩm mà chúng tôi đã thực hiện</p> -->
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -452,88 +460,16 @@
     </section> End Clients Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Đội Chúng Tôi</h2>
-          <!-- p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p> -->
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in">
-              <div class="member-img">
-                <img src="assets/img/team/duclay.png" class="img-fluid" alt="">
-                <div class="social">
-                 <!--  <a href=""><i class="icofont-twitter"></i></a> -->
-                  <a href="https://www.facebook.com/profile.php?id=100055500616624"><i class="icofont-facebook"></i></a>
-                 <!--  <a href=""><i class="icofont-instagram"></i></a> -->
-                  <!-- <a href=""><i class="icofont-linkedin"></i></a> -->
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Trần Minh Đức</h4>
-                <span>Kỷ Sư tự động hóa</span>
-                <p>Tôi là Minh Đức là một kỹ sư tự động hóa, có nhiều năm kinh nghiệm làm việc trong công ty lớn Truong Hai Auto hy vọng những kinh nghiệm đó có thể hợp tác với các bạn.</p><br>
-                <p><b>SĐT: 093.11.00.883</b></p>
-              </div>
-            </div>
-          </div>
-
-         <!--  <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Ut enim possimus nihil cupiditate beatae. Veniam facere quae non qui necessitatibus rerum eos vero. Maxime sit sunt quo dolor autem est qui quaerat</p>
-              </div>
-            </div>
-          </div> -->
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
+  <!-- End Team Section -->
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing section-bg">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Báo Giá</h2>
-          <h6>Các bạn muốn biết thêm chi tiết hoặc giá thì vui lòng liên hệ trực tiếp để được trao đổi trực tiếp:</h6>
+          <h2>Liên Hệ</h2>
+          <h6>Các bạn muốn biết thêm chi tiết vui lòng liên hệ:</h6>
           <h5><B>SDT: 093.11.00.883</B></h5>
-          <h5><b>FaceBook: <a href="https://www.facebook.com/profile.php?id=100055500616624">Minh Đức</a></b></h5>
         </div>
 
         <!-- <div class="row">

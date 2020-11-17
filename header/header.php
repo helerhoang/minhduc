@@ -38,16 +38,16 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
-    <div class="hero-container">
-     <img src="assets/img/logomd.png" alt="">
-      <h1 data-aos="zoom-in">WELCOME TO US</h1>
-      <h2 data-aos="fade-up">CHÚNG TÔI LÀ CHUYÊN TƯ VẤN, SỬA CHỮA, THIẾT KẾ, CÁC VẤN ĐỀ LIÊN QUAN ĐẾN ĐIỆN CÔNG NGHIỆP VÀ TỰ ĐỘNG HÓA TẠI QUẢNG NAM</h2>
+    <div class="hero-container" style="font-size: 88px !important;">
+      <h1 data-aos="zoom-in">MINH ĐỨC AUTOMATION </h1>
+      <h2 data-aos="fade-up" style="color: red !important; font-size: 33px !important;"><b>ĐIỆN CÔNG NGHIỆP - TỰ ĐỘNG HÓA TẠI QUẢNG NAM</b> </h2>
+      <h2 data-aos="fade-up" style="color: red !important;font-size: 33px !important;"> <b>HOTLINE: 0931100883</b> </h2>
       <a data-aos="fade-up" href="#about" class="btn-get-started scrollto">Giới Thiệu</a>
     </div>
   </section><!-- End Hero -->
 
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
+  <header id="header" class="d-flex align-items-center" style="background-color: #49843e !important;">
     <div class="container">
 
       <!-- The main logo is shown in mobile version only. The centered nav-logo in nav menu is displayed in desktop view  -->
@@ -55,15 +55,15 @@
         <a href="index.html"><img src="assets/img/logomd.png" alt="" class="img-fluid"></a>
       </div>
 
-      <nav class="nav-menu d-none d-lg-block">
-        <ul class="nav-inner">
+      <nav class="nav-menu d-none d-lg-block" >
+        <ul class="nav-inner" style=" justify-content: space-between !important;">
           <li class="active"><a href="#">Trang Chủ</a></li>
-          <li class="drop-down"><a href="">Giới Thiệu</a>
-            <ul>
+          <li class=""><a href="#about">Giới Thiệu</a>
+        <!--     <ul>
               <li><a href="#about">Chúng Tôi</a></li>
               <li><a href="#team">Nhóm</a></li>
 
-             <!--  <li class="drop-down"><a href="#">Deep Drop</a>
+              <li class="drop-down"><a href="#">Deep Drop</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
                   <li><a href="#">Deep Drop Down 2</a></li>
@@ -71,16 +71,16 @@
                   <li><a href="#">Deep Drop Down 4</a></li>
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
-              </li> -->
-            </ul>
+              </li>
+            </ul> -->
           </li>
           <li><a href="#services">Dịch Vụ</a></li>
 
-          <li class="nav-logo"><a href=""><img src="assets/img/logomd.png" alt="" class="img-fluid"></a></li>
+          <!-- <li class="nav-logo"><a href=""></a></li> -->
 
           <li><a href="#portfolio">Sản Phẩm Thực Hiện </a></li>
-          <li><a href="#pricing">Báo Giá</a></li>
-          <li><a href="#contact">Thông Tin Liên Hệ</a></li>
+   <!--        <li><a href="#pricing">Báo Giá</a></li> -->
+          <li><a href="#pricing">Liên Hệ</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->
